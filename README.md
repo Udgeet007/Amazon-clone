@@ -38,4 +38,4 @@ While this project currently focuses on the front-end aspects of an e-commerce w
 Thank you for exploring my Amazon clone project. Feel free to fork the repository, provide feedback, or use it as a starting point for your own web development endeavors. Happy coding!
 ```
 
-You can copy and paste this markup into your project's README.md file on GitHub.
+
